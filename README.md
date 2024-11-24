@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Maria!
-- 👀 I’m interested in programmig and databases.
-- 🌱 I’m currently learning object oriented programming with Java.
-- 💞️ I’m looking to collaborate on different projects that I can aply what I studied so far.
-- 😄 Pronouns: She/Her
+👋 Olá, eu sou a Maria!
+👩‍💻 Sou estudante de engenharia da computação.
+👀 Tenho interesse em programação back-end e banco de dados.
+💞️ Atualmente, estou estudando programação orientada a objetos com Java.
+
+✨ Minhas linguagens:         
+   
+<div style="display: inline_block"><br>
+  <img align="center" alt="MF-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="MF-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="MF-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
 
 <!---
 mariaferabelo/mariaferabelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
