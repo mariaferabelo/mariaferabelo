@@ -1,7 +1,6 @@
-👋 Olá, eu sou a Maria!
-👩‍💻 Sou estudante de engenharia da computação.
-👀 Tenho interesse em programação back-end e banco de dados.
-💞️ Atualmente, estou estudando programação orientada a objetos com Java.
+👋 Olá, eu sou a Maria! 
+Sou estudante de engenharia da computação, tenho interesse em programação back-end e banco de dados.
+Atualmente, estou estudando programação orientada a objetos com Java.
 
 ✨ Minhas linguagens:         
    
